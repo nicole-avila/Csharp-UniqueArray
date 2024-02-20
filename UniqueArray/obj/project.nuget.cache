@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFALl6qKIIxRCR3UD2eSkJcTmsde5H8dIVkaArK4x8osVWVCSRJz7PlS4/2nTQ+BbW2QOrL7dF8VFwIKKQAacg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NicoleAvila\\source\\repos\\Csharp\\New folder\\zip files\\UniqueArray\\UniqueArray\\UniqueArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\NicoleAvila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

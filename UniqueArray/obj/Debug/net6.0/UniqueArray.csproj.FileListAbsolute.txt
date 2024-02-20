@@ -1,0 +1,14 @@
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.AssemblyInfoInputs.cache
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.AssemblyInfo.cs
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.csproj.CoreCompileInputs.cache
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\bin\Debug\net6.0\UniqueArray.exe
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\bin\Debug\net6.0\UniqueArray.deps.json
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\bin\Debug\net6.0\UniqueArray.runtimeconfig.json
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\bin\Debug\net6.0\UniqueArray.dll
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\bin\Debug\net6.0\UniqueArray.pdb
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.dll
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\refint\UniqueArray.dll
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.pdb
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\UniqueArray.genruntimeconfig.cache
+C:\Users\NicoleAvila\source\repos\UniqueArray\UniqueArray\obj\Debug\net6.0\ref\UniqueArray.dll
